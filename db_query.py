@@ -13,9 +13,9 @@ except:
 
 try:
     mydb = mysql.connector.connect(
-      host="localhost",
-      user="root",
-      password="Ercddgn21!"
+      host="",
+      user="",
+      password=""
     )
 except:
     print('error')
